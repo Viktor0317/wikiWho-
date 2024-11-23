@@ -54,7 +54,8 @@ Ensure you have Python 3 installed on your machine.
 - **Abigail Conteh** 
 - **Grettch**
 - **Juliana Trombetta**  
-- **Preethi Sivakumar**  
+- **Preethi Sivakumar**
+- **Nikola Brajkovic**  
 
 ### Mentor:  
 
