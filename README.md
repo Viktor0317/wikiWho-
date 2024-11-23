@@ -1,5 +1,6 @@
 ![Game Screenshot](assets/Screenshot_start_screen.png)
 
+
 # wikiWho? - A Python Game Using Wikipedia Data
 
 **wikiWho?** is a fun and educational Python-based guessing game. Players attempt to identify famous individuals based on dynamically fetched clues from Wikipedia summaries. The game includes scoring, a lives system, sanitized clues, and multiple rounds.
@@ -13,12 +14,22 @@
 - **Rounds**: Continue playing until you lose all lives.
 - **Replay Option**: Restart the game upon completion.
 
+## Available Categories
+
+![Game Screenshot](assets/Screenshot_available_categories.png)
+
+
 ## 🕹️ Gameplay
 
 1. Players are presented with clues about a famous person (excluding the name).
 2. Choose the correct person from five options: A, B, C, D, or E.
 3. Accumulate points for correct guesses.
 4. The game ends when all lives are lost.
+
+![Game Screenshot](assets/Screenshot_wrong_guess.png)  
+
+![Game Screenshot](assets/Screenshot_correct_guess.png) 
+
 
 ## 📚 Scoring and Lives
 
