@@ -46,3 +46,26 @@
 
 Ensure you have Python 3 installed on your machine.
 
+
+## 🙌 Contributions and Thanks  
+
+### Team Members:
+
+- **Abigail Conteh** 
+- **Grettch**
+- **Juliana Trombetta**  
+- **Preethi Sivakumar**  
+
+### Mentor:  
+
+- **Maicon de Morais**: Guidance, Code Review, and Support  
+
+
+### Special Thanks  
+
+This project was developed as part of **MasterSchool's First Hackathon** for our class. We are grateful for the opportunity and support from our mentors and peers, which helped bring this game to life.
+
+
+### Enjoy playing wikiWho? and test your knowledge of famous personalities! 🎉
+
+
